@@ -1,0 +1,9 @@
+* Variables: Son datos almacenados para ser usados mas adelante.
+* Strings: Son cadenas de texto, para indicar que es una cadena debe escribirse entre comillas.
+* Booleans: Indica un valor True/False. 
+* Undefined: Indica que lo que estas buscando no existe.
+* Null: Establece que el elemento que estas buscando existe pero no tiene un valor asignado.
+* Operadores : Son símbolos matemáticos que dan un resultado de dos o más valores.
+* `==` vs. `===` :
+
+
