@@ -19,7 +19,9 @@ function encuentraPares(array){
   // Devuelve un arreglo con los pares encontrados
   // en el arreglo de enteros pasado como parámetro
   // Tu código:
-}
+  var filtrados = array.filter ((element) => element % 2 === 0);
+  return filtrados;
+  }
 
 function elevaAlCuadrado(array){
   // Devuelve un arreglo con cada número del array
